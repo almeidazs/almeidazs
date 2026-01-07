@@ -4,7 +4,7 @@ What's up, I am Hiago! Focused on developing and contributing to free and open s
 
 Create APIs (RESTFul & GraphQL) and NPM packages is what I do, loving to share my knowledge with friends while coding with them. Proficient and exploring the best of TypeScript & JavaScript, but using Golang and Python too.
 
-Actually contributing to the best of the @AbacatePay open-source and my personal Go Linter! Loving to experience new stacks and learing a lot with that.
+Actually contributing to the best of the *[AbacatePay](https://github.com/AbacatePay)* open source and *[Serenity](https://github.com/serenitysz)*! Loving to experience new stacks and learing a lot with that.
 
 Thank you for reading this, see ya!
 
