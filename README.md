@@ -6,6 +6,12 @@ Creating APIs (RESTFul & GraphQL) and NPM packages is what I do, loving to share
 
 Actually contributing to the best of the *[AbacatePay](https://github.com/AbacatePay)* open source and *[Serenity](https://github.com/serenitysz/serenity)*! Loving to experience new stacks and learing a lot with that.
 
+**Currently focused on**
+
+- [Serenity](https://github.com/serenitysz)
+- [Redaciona](https://github.com/redacionando)
+- [AbacatePay](https://app.abacatepay.com/)
+<br/>
 Thank you for reading this, see ya!
 
 ![signature](/assets/signature.png)
