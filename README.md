@@ -1,4 +1,4 @@
-*Almeida*
+**Hiago Almeida, Brazil**
 
 What's up, I am Hiago! Focused on developing and contributing to free and open source projects, writing and writing. Really focused on bring better solutions for the community, always updating.
 
@@ -9,11 +9,3 @@ Actually contributing to the best of the *[AbacatePay](https://github.com/Abacat
 Thank you for reading this, see ya!
 
 ![signature](/assets/signature.png)
-
-<p align="center">
-  <sub>
-    <samp>
-      You can view my personal website by visiting <a href="https://eualmeida.com.br/">eualmeida.com.br</a>.<br/>
-    </samp>
-  </sub>
-</p>
