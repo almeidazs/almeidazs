@@ -6,6 +6,8 @@ Creating APIs (RESTFul & GraphQL) and NPM packages is what I do, loving to share
 
 Actually contributing to the best of the *[AbacatePay](https://abacatepay.com)* Open Source and *[Serenity](https://docs-blond.vercel.app/)*! Loving to experience new stacks and learing a lot with that.
 
+By the way, you can view everything about me in *[www.eualmeida.com.br](https://www.eualmeida.com.br/)*.
+
 Thank you for reading this, see ya!
 
 ![signature](/assets/signature.png)
