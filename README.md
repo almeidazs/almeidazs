@@ -1,4 +1,4 @@
-**Hiago Almeida, Brazil**
+**Almeida, Brazil**
 
 What's up, I am Hiago! Focused on developing and contributing to free and open source projects, writing and writing. Really focused on bring better solutions for the community, always updating.
 
@@ -9,5 +9,3 @@ Creator of [Rewrite](https://userewrite.me), and actually contributing to the be
 By the way, you can view everything about me in *[www.eualmeida.com.br](https://www.eualmeida.com.br/)*.
 
 Thank you for reading this, see ya!
-
-![signature](/assets/signature.png)
