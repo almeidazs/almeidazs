@@ -8,6 +8,4 @@ My main stack revolves around [*TypeScript*](https://www.typescriptlang.org/) an
 
 I’m the creator of [*Rewrite*](https://rewritetoday.com) — an **API-first** SMS infrastructure platform built with a strong focus on developer experience and reliability. I'm also creator of many packages and actively contributor to the [*AbacatePay*](https://github.com/AbacatePay) Open Source and [*Serenity*](https://github.com/serenitysz), continuously exploring new stacks, architectures, and distributed system patterns.
 
-Beyond writing code, I enjoy thinking about system design, API ergonomics, performance optimization, infrastructure, and building products that scale globally. My goal is simple: build things that last, and build them well.
-
-You can find more about my work, projects, and thoughts at [*eualmeida.com.br*](https://eualmeida.com.br).
+You can more about me and thoughts at [*eualmeida.com.br*](https://eualmeida.com.br).
