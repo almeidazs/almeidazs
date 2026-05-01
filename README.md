@@ -8,4 +8,4 @@ My main stack revolves around [*TypeScript*](https://www.typescriptlang.org/) an
 
 Co-founder and CTO of [*Rewrite*](https://rewritetoday.com) — an **API-first** SMS infrastructure platform built with a strong focus on developer experience and reliability. I'm also creator of many packages and actively contributor to the [*AbacatePay*](https://github.com/AbacatePay) Open Source and [*Serenity*](https://github.com/serenitysz), continuously exploring new stacks, architectures, and distributed system patterns.
 
-You can more about me and thoughts at [*eualmeida.com.br*](https://eualmeida.com.br).
+[Website](https://eualmeida.com.br) | [Resume](https://www.eualmeida.com.br/assets/resume.pdf) | [LinkedIn](https://www.linkedin.com/in/almeeida/).
