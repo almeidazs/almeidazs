@@ -1,4 +1,4 @@
-Hey, I’m Almeida — a backend-focused Software Engineer from Brazil, currently building Rewrite as **Co-founder** & **CTO**.
+Hey, I’m Almeida — a backend-focused Software Engineer from Brazil.
 
 At [Rewrite](https://rewritetoday.com), I was responsible for designing and building an API-first SMS infrastructure platform focused on developer experience, reliability, observability, and scalable messaging workflows. The product generated R$ 10k+ in revenue from real customers, was sold for R$ 40k, and grew into a real infrastructure layer for businesses that need programmable SMS, campaigns, webhooks, sandbox environments, and reliable delivery pipelines.
 
